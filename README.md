@@ -253,11 +253,3 @@ Because the Bitmap references unmanaged memory, it is cloned into a managed buff
 
 ---
 
-### 🚀 Next Steps
-
-* [ ] Add full **WIC encoder interop** for WebP/AVIF output.
-* [ ] Implement **metadata extraction** and **orientation correction**.
-* [ ] Create **memory-safe IStream wrapper** for managed <-> COM stream bridging.
-
-```
-```
