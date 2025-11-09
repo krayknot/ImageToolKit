@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DjuQipWTre4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\krayk\\OneDrive\\Desktop\\Github Solutions\\ImageTookKit\\src\\ImageToolkit.Core\\ImageToolkit.Core\\ImageToolkit.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\krayk\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\krayk\\.nuget\\packages\\system.drawing.common\\8.0.0\\system.drawing.common.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

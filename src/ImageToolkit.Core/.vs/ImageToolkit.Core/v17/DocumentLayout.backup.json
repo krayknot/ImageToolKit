@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\krayk\\OneDrive\\Desktop\\Github Solutions\\ImageTookKit\\src\\ImageToolkit.Core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F0BBD7B-AFEC-4F61-8C87-95A546E360C7}|ImageToolkit.Core\\ImageToolkit.Core.csproj|c:\\users\\krayk\\onedrive\\desktop\\github solutions\\imagetookkit\\src\\imagetoolkit.core\\imagetoolkit.core\\services\\codecs\\wiccodec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F0BBD7B-AFEC-4F61-8C87-95A546E360C7}|ImageToolkit.Core\\ImageToolkit.Core.csproj|solutionrelative:imagetoolkit.core\\services\\codecs\\wiccodec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F0BBD7B-AFEC-4F61-8C87-95A546E360C7}|ImageToolkit.Core\\ImageToolkit.Core.csproj|c:\\users\\krayk\\onedrive\\desktop\\github solutions\\imagetookkit\\src\\imagetoolkit.core\\imagetoolkit.core\\native\\wicnative.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F0BBD7B-AFEC-4F61-8C87-95A546E360C7}|ImageToolkit.Core\\ImageToolkit.Core.csproj|solutionrelative:imagetoolkit.core\\native\\wicnative.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F0BBD7B-AFEC-4F61-8C87-95A546E360C7}|ImageToolkit.Core\\ImageToolkit.Core.csproj|c:\\users\\krayk\\onedrive\\desktop\\github solutions\\imagetookkit\\src\\imagetoolkit.core\\imagetoolkit.core\\native\\managedistream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F0BBD7B-AFEC-4F61-8C87-95A546E360C7}|ImageToolkit.Core\\ImageToolkit.Core.csproj|solutionrelative:imagetoolkit.core\\native\\managedistream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F0BBD7B-AFEC-4F61-8C87-95A546E360C7}|ImageToolkit.Core\\ImageToolkit.Core.csproj|c:\\users\\krayk\\onedrive\\desktop\\github solutions\\imagetookkit\\src\\imagetoolkit.core\\imagetoolkit.core\\testconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F0BBD7B-AFEC-4F61-8C87-95A546E360C7}|ImageToolkit.Core\\ImageToolkit.Core.csproj|solutionrelative:imagetoolkit.core\\testconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F0BBD7B-AFEC-4F61-8C87-95A546E360C7}|ImageToolkit.Core\\ImageToolkit.Core.csproj|c:\\users\\krayk\\onedrive\\desktop\\github solutions\\imagetookkit\\src\\imagetoolkit.core\\imagetoolkit.core\\services\\imageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F0BBD7B-AFEC-4F61-8C87-95A546E360C7}|ImageToolkit.Core\\ImageToolkit.Core.csproj|solutionrelative:imagetoolkit.core\\services\\imageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F0BBD7B-AFEC-4F61-8C87-95A546E360C7}|ImageToolkit.Core\\ImageToolkit.Core.csproj|c:\\users\\krayk\\onedrive\\desktop\\github solutions\\imagetookkit\\src\\imagetoolkit.core\\imagetoolkit.core\\services\\codecs\\builtincodec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F0BBD7B-AFEC-4F61-8C87-95A546E360C7}|ImageToolkit.Core\\ImageToolkit.Core.csproj|solutionrelative:imagetoolkit.core\\services\\codecs\\builtincodec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F0BBD7B-AFEC-4F61-8C87-95A546E360C7}|ImageToolkit.Core\\ImageToolkit.Core.csproj|c:\\users\\krayk\\onedrive\\desktop\\github solutions\\imagetookkit\\src\\imagetoolkit.core\\imagetoolkit.core\\services\\codecs\\iimagecodec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F0BBD7B-AFEC-4F61-8C87-95A546E360C7}|ImageToolkit.Core\\ImageToolkit.Core.csproj|solutionrelative:imagetoolkit.core\\services\\codecs\\iimagecodec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F0BBD7B-AFEC-4F61-8C87-95A546E360C7}|ImageToolkit.Core\\ImageToolkit.Core.csproj|c:\\users\\krayk\\onedrive\\desktop\\github solutions\\imagetookkit\\src\\imagetoolkit.core\\imagetoolkit.core\\imagetoolkit.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8F0BBD7B-AFEC-4F61-8C87-95A546E360C7}|ImageToolkit.Core\\ImageToolkit.Core.csproj|solutionrelative:imagetoolkit.core\\imagetoolkit.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManagedIStream.cs",
+              "DocumentMoniker": "C:\\Users\\krayk\\OneDrive\\Desktop\\Github Solutions\\ImageTookKit\\src\\ImageToolkit.Core\\ImageToolkit.Core\\Native\\ManagedIStream.cs",
+              "RelativeDocumentMoniker": "ImageToolkit.Core\\Native\\ManagedIStream.cs",
+              "ToolTip": "C:\\Users\\krayk\\OneDrive\\Desktop\\Github Solutions\\ImageTookKit\\src\\ImageToolkit.Core\\ImageToolkit.Core\\Native\\ManagedIStream.cs",
+              "RelativeToolTip": "ImageToolkit.Core\\Native\\ManagedIStream.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAcwF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T03:35:38.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krayk\\OneDrive\\Desktop\\Github Solutions\\ImageTookKit\\src\\ImageToolkit.Core\\ImageToolkit.Core\\TestConsole\\Program.cs",
+              "RelativeDocumentMoniker": "ImageToolkit.Core\\TestConsole\\Program.cs",
+              "ToolTip": "C:\\Users\\krayk\\OneDrive\\Desktop\\Github Solutions\\ImageTookKit\\src\\ImageToolkit.Core\\ImageToolkit.Core\\TestConsole\\Program.cs",
+              "RelativeToolTip": "ImageToolkit.Core\\TestConsole\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T03:34:27.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ImageToolkit.Core",
+              "DocumentMoniker": "C:\\Users\\krayk\\OneDrive\\Desktop\\Github Solutions\\ImageTookKit\\src\\ImageToolkit.Core\\ImageToolkit.Core\\ImageToolkit.Core.csproj",
+              "RelativeDocumentMoniker": "ImageToolkit.Core\\ImageToolkit.Core.csproj",
+              "ToolTip": "C:\\Users\\krayk\\OneDrive\\Desktop\\Github Solutions\\ImageTookKit\\src\\ImageToolkit.Core\\ImageToolkit.Core\\ImageToolkit.Core.csproj",
+              "RelativeToolTip": "ImageToolkit.Core\\ImageToolkit.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-09T03:30:22.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WicNative.cs",
+              "DocumentMoniker": "C:\\Users\\krayk\\OneDrive\\Desktop\\Github Solutions\\ImageTookKit\\src\\ImageToolkit.Core\\ImageToolkit.Core\\Native\\WicNative.cs",
+              "RelativeDocumentMoniker": "ImageToolkit.Core\\Native\\WicNative.cs",
+              "ToolTip": "C:\\Users\\krayk\\OneDrive\\Desktop\\Github Solutions\\ImageTookKit\\src\\ImageToolkit.Core\\ImageToolkit.Core\\Native\\WicNative.cs",
+              "RelativeToolTip": "ImageToolkit.Core\\Native\\WicNative.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAmwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T03:28:56.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WicCodec.cs",
+              "DocumentMoniker": "C:\\Users\\krayk\\OneDrive\\Desktop\\Github Solutions\\ImageTookKit\\src\\ImageToolkit.Core\\ImageToolkit.Core\\Services\\Codecs\\WicCodec.cs",
+              "RelativeDocumentMoniker": "ImageToolkit.Core\\Services\\Codecs\\WicCodec.cs",
+              "ToolTip": "C:\\Users\\krayk\\OneDrive\\Desktop\\Github Solutions\\ImageTookKit\\src\\ImageToolkit.Core\\ImageToolkit.Core\\Services\\Codecs\\WicCodec.cs",
+              "RelativeToolTip": "ImageToolkit.Core\\Services\\Codecs\\WicCodec.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAIAwwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T03:28:47.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BuiltInCodec.cs",
+              "DocumentMoniker": "C:\\Users\\krayk\\OneDrive\\Desktop\\Github Solutions\\ImageTookKit\\src\\ImageToolkit.Core\\ImageToolkit.Core\\Services\\Codecs\\BuiltInCodec.cs",
+              "RelativeDocumentMoniker": "ImageToolkit.Core\\Services\\Codecs\\BuiltInCodec.cs",
+              "ToolTip": "C:\\Users\\krayk\\OneDrive\\Desktop\\Github Solutions\\ImageTookKit\\src\\ImageToolkit.Core\\ImageToolkit.Core\\Services\\Codecs\\BuiltInCodec.cs",
+              "RelativeToolTip": "ImageToolkit.Core\\Services\\Codecs\\BuiltInCodec.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T03:28:39.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IImageCodec.cs",
+              "DocumentMoniker": "C:\\Users\\krayk\\OneDrive\\Desktop\\Github Solutions\\ImageTookKit\\src\\ImageToolkit.Core\\ImageToolkit.Core\\Services\\Codecs\\IImageCodec.cs",
+              "RelativeDocumentMoniker": "ImageToolkit.Core\\Services\\Codecs\\IImageCodec.cs",
+              "ToolTip": "C:\\Users\\krayk\\OneDrive\\Desktop\\Github Solutions\\ImageTookKit\\src\\ImageToolkit.Core\\ImageToolkit.Core\\Services\\Codecs\\IImageCodec.cs",
+              "RelativeToolTip": "ImageToolkit.Core\\Services\\Codecs\\IImageCodec.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T03:28:32.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ImageService.cs",
+              "DocumentMoniker": "C:\\Users\\krayk\\OneDrive\\Desktop\\Github Solutions\\ImageTookKit\\src\\ImageToolkit.Core\\ImageToolkit.Core\\Services\\ImageService.cs",
+              "RelativeDocumentMoniker": "ImageToolkit.Core\\Services\\ImageService.cs",
+              "ToolTip": "C:\\Users\\krayk\\OneDrive\\Desktop\\Github Solutions\\ImageTookKit\\src\\ImageToolkit.Core\\ImageToolkit.Core\\Services\\ImageService.cs",
+              "RelativeToolTip": "ImageToolkit.Core\\Services\\ImageService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAcwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T03:27:46.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
